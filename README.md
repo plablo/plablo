@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--![Pablo Pla's Github Stats](https://metrics.lecoq.io/plablo) -->
+
+![Pablo Pla's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=plablo&show_icons=true&count_private=true&theme=gotham)
+
 <!--
 **plablo/plablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
