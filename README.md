@@ -4,7 +4,9 @@
 
 <!--![Pablo Pla's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plablo&show_icons=true&theme=vue-dark&layout=compact)-->
 
-![Stats](./profile/stats.svg)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=plablo&show_icons=true)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=plablo&layout=compact)
 
 <!--
 **plablo/plablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
